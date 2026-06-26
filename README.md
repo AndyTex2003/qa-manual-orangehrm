@@ -91,12 +91,24 @@ qa-manual-orangehrm
 
 ## 📑 Artefatos Produzidos
 
-- 📄 Plano de Testes
-- 📋 Casos de Teste
-- 📸 Evidências de Execução
-- 📊 Matriz de Cobertura
-- 📈 Relatório de Execução
-- 🐞 Relatório de Bugs
+- 📄 [Plano de Testes](plano-de-testes/plano-de-testes-orangehrm.md)
+- 📋 [Casos de Teste](casos-de-teste/Casos-de-Teste-OrangeHRM.pdf)
+- 📊 [Matriz de Cobertura](matriz-de-cobertura/Matriz-de-Cobertura-OrangeHRM.pdf)
+- 📈 [Relatório de Execução](relatorio-de-execucao/Relatorio-de-Execucao-OrangeHRM.pdf)
+- 📸 Evidências de Execução (organizadas por módulo na pasta `evidencias/`)
+- 🐞 Relatório de Bugs *(nenhum defeito foi identificado durante a execução dos casos de teste planejados)*
+
+---
+
+## 📁 Como visualizar os artefatos
+
+Os documentos produzidos durante o projeto estão organizados por categoria:
+
+- Plano de Testes: documento em Markdown.
+- Casos de Teste: documento consolidado em PDF.
+- Matriz de Cobertura: documento em PDF.
+- Relatório de Execução: documento em PDF.
+- Evidências: capturas de tela organizadas por módulo na pasta `evidencias/`.
 
 ---
 
